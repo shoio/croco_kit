@@ -1,0 +1,21 @@
+{
+    "name": "StemLab",
+    "version": "2.0.0",
+    "description": "Extensao para Micro:bit StemLab V2.0.0",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "LEDBit": "github:silverbolt90210/LED-Bit"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/StemLab-strings.json",
+        "_locales/zh-tw/StemLab-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}
